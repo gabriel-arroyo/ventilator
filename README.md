@@ -27,16 +27,23 @@ Controlador de velocidad
 - 3A PWM $80.00  https://store.robodacta.mx/controladores/controladores-de-motores-dc/controlador-velocidad-motor-pwm-6-28vdc-3a/
 - 3A $300.00 https://sandorobotics.com/producto/1212/
 - 4A L298 $60.00 https://store.robodacta.mx/controladores/controladores-de-motores-dc/modulo-controlador-dual-motor-l298n/
+          $49.00 https://articulo.mercadolibre.com.mx/MLM-549838584-modulo-puente-h-l298n-motor-driver-l298-controlador-de-motores-arduino-pic-raspberry-_JM#position=5&type=item&tracking_id=8acbd97e-9720-496f-bdfd-513972a3fbc6
 
 Fuente de poder conmutada
 -12V 8.5A $409.00 https://hardtofind.com.mx/pdfs/textos/A/A-100FAN-12.PDF
+
+Arduino Uno R3
+- $130.00 https://store.robodacta.mx/controladores/arduino/controladores-arduino/tarjeta-nano-v3.0-ch340-con-cable-usb-es/
+- 4145.00 https://sandorobotics.com/producto/sd-a066/
+- $200.00 (incluye caja) https://articulo.mercadolibre.com.mx/MLM-730282120-arduino-uno-r3-con-chip-atmega328p-con-caja-y-cable-usb-_JM?quantity=1#reco_item_pos=2&reco_backend=machinalis-pads&reco_backend_type=low_level&reco_client=vip-pads-right&reco_id=5dcc017e-0899-44be-8094-331e4ae510c4&is_advertising=true&ad_domain=VIPCORE_RIGHT&ad_position=3&ad_click_id=OGFkZjQ2NzAtYjk4Mi00Mjc3LTg5MTEtOTA4OWVmZjdlNTZm
+
+Arduino Uno smd
+- $98.99 https://articulo.mercadolibre.com.mx/MLM-556923630-arduino-uno-smd-_JM?quantity=1#position=2&type=pad&tracking_id=736cd059-d790-4ba6-8aaa-e404b6af155f&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=2&ad_click_id=NmMwZDhjNGYtNGQ5Yy00NDU4LTkzMzQtN2RjZDgyZGFjN2Fk
 
 ### Otros prototipos
 
 - [Open Source Respirator and Low Cost Ventilator Efforts to Fight Coronavirus (COVID-19)](https://bradenkelley.com/2020/03/open-source-respirator-and-low-cost-ventilator-efforts-to-fight-coronavirus-covid-19/)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096
 
 
