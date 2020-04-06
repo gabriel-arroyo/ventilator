@@ -12,13 +12,23 @@
 
 - [Ambu Bag Kit Resucitador Oxygen Tube Mask Adulto](https://articulo.mercadolibre.com.mx/MLM-730415838-ambu-bag-kit-resucitador-oxygen-tube-mask-adulto-_JM?quantity=1#position=19&type=item&tracking_id=5cb699e3-2dc9-4576-9733-0665628c4611)
 
-Par de montaje reductor
-https://store.robodacta.mx/motores/accesorios/par-montaje-motor-37d./
+
 
 Motor reductor
 
-- 150:1 50kg/cm https://sandorobotics.com/producto/2828/
-- 131:1 45kg/cm https://sandorobotics.com/producto/4756/
+- 150:1 50kg/cm $1040.00 https://sandorobotics.com/producto/2828/
+- 131:1 45kg/cm $1040.00 https://sandorobotics.com/producto/4756/
+- 99:1 21kg/cm $980.00 https://sandorobotics.com/producto/4847/
+
+Par de montaje reductor
+- 37D $180 https://store.robodacta.mx/motores/accesorios/par-montaje-motor-37d./
+
+Controlador de velocidad
+- 3A PWM $80.00  https://store.robodacta.mx/controladores/controladores-de-motores-dc/controlador-velocidad-motor-pwm-6-28vdc-3a/
+- 3A https://sandorobotics.com/producto/1212/
+- 4A L298 $60.00 https://store.robodacta.mx/controladores/controladores-de-motores-dc/modulo-controlador-dual-motor-l298n/
+
+
 
 ### Otros prototipos
 
