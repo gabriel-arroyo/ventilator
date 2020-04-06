@@ -25,6 +25,7 @@ Motor reductor
 - [Open Source Respirator and Low Cost Ventilator Efforts to Fight Coronavirus (COVID-19)](https://bradenkelley.com/2020/03/open-source-respirator-and-low-cost-ventilator-efforts-to-fight-coronavirus-covid-19/)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096
 
 
@@ -36,5 +37,5 @@ https://www.youtube.com/watch?v=7vLPefHYWpY
 
 Humidificar y calentar aire de entrada.
 =======
-- [Prototipo Opensource](http://oedk.rice.edu/apollobvm/)
->>>>>>> 8605900ce91963bcc26076862407429193f69faf
+
+- [Prototipo Opensource](http://oedk.rice.edu/apollobvm/) [Datos](http://oedk.rice.edu/ApolloBVM-DIY)
