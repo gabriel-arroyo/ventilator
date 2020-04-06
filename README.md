@@ -28,13 +28,15 @@ Controlador de velocidad
 - 3A $300.00 https://sandorobotics.com/producto/1212/
 - 4A L298 $60.00 https://store.robodacta.mx/controladores/controladores-de-motores-dc/modulo-controlador-dual-motor-l298n/
           $49.00 https://articulo.mercadolibre.com.mx/MLM-549838584-modulo-puente-h-l298n-motor-driver-l298-controlador-de-motores-arduino-pic-raspberry-_JM#position=5&type=item&tracking_id=8acbd97e-9720-496f-bdfd-513972a3fbc6
+- 3A (pico 5A) $750.00 MC33926 https://store.robodacta.mx/controladores/controladores-de-motores-dc/tarjeta-shield-controlador-dual-motor-mc33926/
 
 Fuente de poder conmutada
 -12V 8.5A $409.00 https://hardtofind.com.mx/pdfs/textos/A/A-100FAN-12.PDF
 
 Arduino Uno R3
+- 169.00 (con caja) https://articulo.mercadolibre.com.mx/MLM-695316618-arduino-uno-r3-case-acrilico-_JM?quantity=1#position=34&type=item&tracking_id=736cd059-d790-4ba6-8aaa-e404b6af155f
 - $130.00 https://store.robodacta.mx/controladores/arduino/controladores-arduino/tarjeta-nano-v3.0-ch340-con-cable-usb-es/
-- 4145.00 https://sandorobotics.com/producto/sd-a066/
+- $145.00 https://sandorobotics.com/producto/sd-a066/
 - $200.00 (incluye caja) https://articulo.mercadolibre.com.mx/MLM-730282120-arduino-uno-r3-con-chip-atmega328p-con-caja-y-cable-usb-_JM?quantity=1#reco_item_pos=2&reco_backend=machinalis-pads&reco_backend_type=low_level&reco_client=vip-pads-right&reco_id=5dcc017e-0899-44be-8094-331e4ae510c4&is_advertising=true&ad_domain=VIPCORE_RIGHT&ad_position=3&ad_click_id=OGFkZjQ2NzAtYjk4Mi00Mjc3LTg5MTEtOTA4OWVmZjdlNTZm
 
 Arduino Uno smd
