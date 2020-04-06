@@ -25,10 +25,11 @@ Par de montaje reductor
 
 Controlador de velocidad
 - 3A PWM $80.00  https://store.robodacta.mx/controladores/controladores-de-motores-dc/controlador-velocidad-motor-pwm-6-28vdc-3a/
-- 3A https://sandorobotics.com/producto/1212/
+- 3A $300.00 https://sandorobotics.com/producto/1212/
 - 4A L298 $60.00 https://store.robodacta.mx/controladores/controladores-de-motores-dc/modulo-controlador-dual-motor-l298n/
 
-
+Fuente de poder conmutada
+-12V 8.5A $409.00 https://hardtofind.com.mx/pdfs/textos/A/A-100FAN-12.PDF
 
 ### Otros prototipos
 
