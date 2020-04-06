@@ -28,8 +28,10 @@ Controlador de velocidad
 - 3A $300.00 https://sandorobotics.com/producto/1212/
 - 4A L298 $60.00 https://store.robodacta.mx/controladores/controladores-de-motores-dc/modulo-controlador-dual-motor-l298n/
           $49.00 https://articulo.mercadolibre.com.mx/MLM-549838584-modulo-puente-h-l298n-motor-driver-l298-controlador-de-motores-arduino-pic-raspberry-_JM#position=5&type=item&tracking_id=8acbd97e-9720-496f-bdfd-513972a3fbc6
+          $48.07 http://app-tek.net/producto/modulo-puente-h-l298n/
 - 3A (pico 5A) $750.00 MC33926 https://store.robodacta.mx/controladores/controladores-de-motores-dc/tarjeta-shield-controlador-dual-motor-mc33926/
-
+- 4.5A - 5A $450.00 http://app-tek.net/producto/tarjeta-controladora-de-motores-a-pasos-tb6600/
+- 14A (para Mayo) $200 https://www.agelectronica.com/detalle.php?p=OKY3199-6*
 Fuente de poder conmutada
 -12V 8.5A $409.00 https://hardtofind.com.mx/pdfs/textos/A/A-100FAN-12.PDF
 
