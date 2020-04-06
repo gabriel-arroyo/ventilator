@@ -12,6 +12,29 @@
 
 - [Ambu Bag Kit Resucitador Oxygen Tube Mask Adulto](https://articulo.mercadolibre.com.mx/MLM-730415838-ambu-bag-kit-resucitador-oxygen-tube-mask-adulto-_JM?quantity=1#position=19&type=item&tracking_id=5cb699e3-2dc9-4576-9733-0665628c4611)
 
+Par de montaje reductor
+https://store.robodacta.mx/motores/accesorios/par-montaje-motor-37d./
+
+Motor reductor
+
+- 150:1 50kg/cm https://sandorobotics.com/producto/2828/
+- 131:1 45kg/cm https://sandorobotics.com/producto/4756/
+
 ### Otros prototipos
 
 - [Open Source Respirator and Low Cost Ventilator Efforts to Fight Coronavirus (COVID-19)](https://bradenkelley.com/2020/03/open-source-respirator-and-low-cost-ventilator-efforts-to-fight-coronavirus-covid-19/)
+
+<<<<<<< HEAD
+http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096
+
+
+
+### Informacion de diseño
+
+variar de 5 a 30 respiraciones por minuto
+https://www.youtube.com/watch?v=7vLPefHYWpY
+
+Humidificar y calentar aire de entrada.
+=======
+- [Prototipo Opensource](http://oedk.rice.edu/apollobvm/)
+>>>>>>> 8605900ce91963bcc26076862407429193f69faf
