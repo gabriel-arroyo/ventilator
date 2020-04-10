@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Ventilador" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1211756865" CREATED="1586541323287" MODIFIED="1586541606777"><hook NAME="MapStyle" zoom="0.909">
+<node TEXT="Ventilador" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1211756865" CREATED="1586541323287" MODIFIED="1586541606777"><hook NAME="MapStyle" zoom="0.565">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
 
 <map_styles>
@@ -215,7 +215,7 @@
 <node TEXT="Alarmas" ID="ID_675174688" CREATED="1586549908226" MODIFIED="1586549911201">
 <node TEXT="Apnea" ID="ID_510877016" CREATED="1586549911201" MODIFIED="1586550110683">
 <font BOLD="true"/>
-<node TEXT="cese completo de la se&#xf1;al respiratoria por mas de 15 s" ID="ID_868602479" CREATED="1586549921421" MODIFIED="1586549950058"/>
+<node TEXT="cese completo de la se&#xf1;al respiratoria por mas de 15s" ID="ID_868602479" CREATED="1586549921421" MODIFIED="1586551328490"/>
 </node>
 <node TEXT="Volumen minuto o corriente alto o bajo" ID="ID_1247764600" CREATED="1586549960287" MODIFIED="1586550111182">
 <font BOLD="true"/>
@@ -329,6 +329,124 @@
 
 </richcontent>
 </node>
+</node>
+</node>
+<node TEXT="Medidor de presion en diferentes puntos del circuito" ID="ID_159146066" CREATED="1586550970842" MODIFIED="1586550982383">
+<node TEXT="Sensores de presion" ID="ID_1293277273" CREATED="1586550982383" MODIFIED="1586550987873">
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-632028657-modulo-sensor-de-presion-barometrica-bmp180-gy68-arduino-_JM?quantity=1#position=1&amp;type=item&amp;tracking_id=0b8a74b0-1727-44eb-8252-176c57a0121a" ID="ID_1810146280" CREATED="1586550989913" MODIFIED="1586551007764" LINK="https://articulo.mercadolibre.com.mx/MLM-632028657-modulo-sensor-de-presion-barometrica-bmp180-gy68-arduino-_JM?quantity=1#position=1&amp;type=item&amp;tracking_id=0b8a74b0-1727-44eb-8252-176c57a0121a"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $44.00
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-754038137-sensor-de-presion-bme280-33v-temperatura-humedad-_JM?quantity=1#position=4&amp;type=item&amp;tracking_id=0b8a74b0-1727-44eb-8252-176c57a0121a" ID="ID_1453207399" CREATED="1586551086408" MODIFIED="1586551143261" LINK="https://articulo.mercadolibre.com.mx/MLM-754038137-sensor-de-presion-bme280-33v-temperatura-humedad-_JM?quantity=1#position=4&amp;type=item&amp;tracking_id=0b8a74b0-1727-44eb-8252-176c57a0121a"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $75.00
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-562887517-bmp180-sensor-de-presion-arduino-_JM?quantity=1#position=12&amp;type=item&amp;tracking_id=0b8a74b0-1727-44eb-8252-176c57a0121a" ID="ID_1303375671" CREATED="1586551103989" MODIFIED="1586551137241" LINK="https://articulo.mercadolibre.com.mx/MLM-562887517-bmp180-sensor-de-presion-arduino-_JM?quantity=1#position=12&amp;type=item&amp;tracking_id=0b8a74b0-1727-44eb-8252-176c57a0121a"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $30.00
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="Humedecer y calentar el aire" ID="ID_916993154" CREATED="1586551219195" MODIFIED="1586551232156">
+<node TEXT="Sensor de humedad y temperatura" ID="ID_717451843" CREATED="1586551272688" MODIFIED="1586551283798">
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-705386508-dht22-sensor-de-temperatura-y-humedad-digital-arduino-_JM?quantity=1#reco_item_pos=1&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=6aa9ea30-850d-4c66-8aa4-511b6622f496" ID="ID_833179979" CREATED="1586551232156" MODIFIED="1586551258337" LINK="https://articulo.mercadolibre.com.mx/MLM-705386508-dht22-sensor-de-temperatura-y-humedad-digital-arduino-_JM?quantity=1#reco_item_pos=1&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=6aa9ea30-850d-4c66-8aa4-511b6622f496"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $90.00
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="GUI" ID="ID_505370864" CREATED="1586551041486" MODIFIED="1586551044186">
+<node TEXT="Pantalla LCD" ID="ID_1391618986" CREATED="1586551044196" MODIFIED="1586551050076">
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-657224073-display-lcd-pantalla-16x2-1602-fondo-azul-interfaz-12c-_JM?quantity=1#reco_item_pos=1&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=e60b2dff-057d-4720-8bce-2d158dbed6a9" ID="ID_123570565" CREATED="1586551050076" MODIFIED="1586551057137"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $80.00
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="energia de respaldo por 7 horas" ID="ID_1677504421" CREATED="1586552994106" MODIFIED="1586553011689">
+<node TEXT="&#xbf;usar No-break?" ID="ID_445625489" CREATED="1586553011689" MODIFIED="1586553025992">
+<node TEXT="Para asegurar el funcionamiento correcto y no perder tiempo en el dise&#xf1;o electrico y busqueda de las partes" ID="ID_391285172" CREATED="1586553025992" MODIFIED="1586553059091"/>
+</node>
+</node>
+</node>
+<node TEXT="cosas que quiza puedan servir" POSITION="right" ID="ID_1234940928" CREATED="1586552259014" MODIFIED="1586552275787">
+<node TEXT="Celda de carga" ID="ID_1925219625" CREATED="1586552285515" MODIFIED="1586552288517">
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-756221061-celda-de-carga-de-10kg-con-amplificador-hx711-sensor-de-peso-_JM?quantity=1#position=4&amp;type=item&amp;tracking_id=b736147d-c0dc-41d0-be4a-847e4a742aa9" ID="ID_694416404" CREATED="1586552302268" MODIFIED="1586552302268" LINK="https://articulo.mercadolibre.com.mx/MLM-756221061-celda-de-carga-de-10kg-con-amplificador-hx711-sensor-de-peso-_JM?quantity=1#position=4&amp;type=item&amp;tracking_id=b736147d-c0dc-41d0-be4a-847e4a742aa9"/>
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-756999865-kit-4-piezas-celda-de-carga-de-50kg-con-1-amplificador-hx711-_JM?quantity=1#reco_item_pos=2&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=86cd83fc-2487-4a31-8311-225388575f58" ID="ID_1426970494" CREATED="1586552328496" MODIFIED="1586552328496" LINK="https://articulo.mercadolibre.com.mx/MLM-756999865-kit-4-piezas-celda-de-carga-de-50kg-con-1-amplificador-hx711-_JM?quantity=1#reco_item_pos=2&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=86cd83fc-2487-4a31-8311-225388575f58"/>
+</node>
+<node TEXT="Rotametro para aire" ID="ID_26343775" CREATED="1586552658175" MODIFIED="1586552664560">
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-689396839-medidor-flujometro-rotametro-regulado-aire-01-1-lpm-_JM?quantity=1#position=31&amp;type=item&amp;tracking_id=c6c207b6-df7f-4d6a-9c19-4a515fbc3ad5" ID="ID_224724268" CREATED="1586552665409" MODIFIED="1586552665409" LINK="https://articulo.mercadolibre.com.mx/MLM-689396839-medidor-flujometro-rotametro-regulado-aire-01-1-lpm-_JM?quantity=1#position=31&amp;type=item&amp;tracking_id=c6c207b6-df7f-4d6a-9c19-4a515fbc3ad5"/>
+</node>
+<node TEXT="Sensor de presion diferencial" ID="ID_1640177270" CREATED="1586552938471" MODIFIED="1586552947763">
+<node TEXT="https://sandorobotics.com/producto/hs0046/" ID="ID_49313719" CREATED="1586552950774" MODIFIED="1586552960066" LINK="https://sandorobotics.com/producto/hs0046/"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $300
+    </p>
+  </body>
+</html>
+
+</richcontent>
 </node>
 </node>
 </node>
