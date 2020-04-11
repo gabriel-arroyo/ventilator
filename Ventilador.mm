@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Ventilador" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1211756865" CREATED="1586541323287" MODIFIED="1586541606777"><hook NAME="MapStyle" zoom="0.565">
+<node TEXT="Ventilador" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1211756865" CREATED="1586541323287" MODIFIED="1586541606777"><hook NAME="MapStyle" zoom="1.001">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
 
 <map_styles>
@@ -259,7 +259,14 @@
 <node TEXT="Potencia" ID="ID_675000914" CREATED="1586547348485" MODIFIED="1586547351470">
 <node TEXT="LD298" ID="ID_1007679680" CREATED="1586547353382" MODIFIED="1586547358102"/>
 </node>
-<node TEXT="Bolsa valvula mascarilla (Ambu)" ID="ID_1810486703" CREATED="1586547240143" MODIFIED="1586547299134"/>
+<node TEXT="Bolsa valvula mascarilla (Ambu)" ID="ID_1810486703" CREATED="1586547240143" MODIFIED="1586547299134">
+<node TEXT="https://www.ambu.es/productos/anestesia/resucitadores/productos/ambu-spur-ii" ID="ID_864615824" CREATED="1586576400347" MODIFIED="1586576400347" LINK="https://www.ambu.es/productos/anestesia/resucitadores/productos/ambu-spur-ii"/>
+<node TEXT="volumen expulsado" ID="ID_546963476" CREATED="1586576402438" MODIFIED="1586576410980">
+<node TEXT="1 mano =800mL" ID="ID_1003629984" CREATED="1586576410980" MODIFIED="1586576418764"/>
+<node TEXT="2 manos =1100mL" ID="ID_1401494796" CREATED="1586576419003" MODIFIED="1586576428412"/>
+<node TEXT="volumen total = 1475mL" ID="ID_894796009" CREATED="1586576428830" MODIFIED="1586576453623"/>
+</node>
+</node>
 </node>
 <node TEXT="Presion positiva Aerea continua" ID="ID_336245567" CREATED="1586547360621" MODIFIED="1586547372150">
 <node TEXT="Alternativas" ID="ID_1434703920" CREATED="1586547820809" MODIFIED="1586547824774">
