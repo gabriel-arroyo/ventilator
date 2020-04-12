@@ -12,6 +12,7 @@
 
 - [Ambu Bag Kit Resucitador Oxygen Tube Mask Adulto](https://articulo.mercadolibre.com.mx/MLM-730415838-ambu-bag-kit-resucitador-oxygen-tube-mask-adulto-_JM?quantity=1#position=19&type=item&tracking_id=5cb699e3-2dc9-4576-9733-0665628c4611)
 
+- [Diferencia entre CPAP y respirador] (https://www.dailymail.co.uk/sciencetech/article-8127281/Engineers-develop-share-open-source-designs-DIY-ventilators.html)
 
 
 Motor reductor
