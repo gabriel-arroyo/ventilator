@@ -8,12 +8,10 @@
         - I’m an anesthesiologist/intensivt so I’m a specialist in mechanical ventilation. The device described in this post is not a ventilator but a high flow nasal cannula. The air is warmed and humidified to not dry out mucus membranes. Frequently sold under the brand name Optiflow and should be easy to construct, just bubble the gas through 37-40C water.
 
 - [Prof. Diwakar Vaish, primera startup de respiradores](https://twitter.com/diwakarvaish?s=20)
+- [Diferencia entre CPAP y respirador](https://www.dailymail.co.uk/sciencetech/article-8127281/Engineers-develop-share-open-source-designs-DIY-ventilators.html)
+- [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/home)
 ### Productos a la venta
-
 - [Ambu Bag Kit Resucitador Oxygen Tube Mask Adulto](https://articulo.mercadolibre.com.mx/MLM-730415838-ambu-bag-kit-resucitador-oxygen-tube-mask-adulto-_JM?quantity=1#position=19&type=item&tracking_id=5cb699e3-2dc9-4576-9733-0665628c4611)
-
-- [Diferencia entre CPAP y respirador] (https://www.dailymail.co.uk/sciencetech/article-8127281/Engineers-develop-share-open-source-designs-DIY-ventilators.html)
-
 
 Motor reductor
 
@@ -51,7 +49,7 @@ Arduino Uno smd
 
 http://oedk.rice.edu/Sys/PublicProfile/47585242/1063096
 
-
+- [Prototipo MIT](http://news.mit.edu/2020/ventilator-covid-deployment-open-source-low-cost-0326)
 
 ### Informacion de diseño
 
