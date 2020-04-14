@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Ventilador" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1211756865" CREATED="1586541323287" MODIFIED="1586541606777"><hook NAME="MapStyle" zoom="1.001">
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
+<node TEXT="Ventilador" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1211756865" CREATED="1586541323287" MODIFIED="1586541606777"><hook NAME="MapStyle" zoom="0.684">
+    <properties fit_to_viewport="false" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -93,7 +93,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Modos de ventilaci&#xf3;n" ID="ID_168846931" CREATED="1586541669010" MODIFIED="1586541696972"><richcontent TYPE="DETAILS">
 
@@ -107,7 +106,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Ventilacion controlada" ID="ID_768420987" CREATED="1586541698361" MODIFIED="1586541715193">
 <node TEXT="Para pacientes sedados" ID="ID_15598176" CREATED="1586541742074" MODIFIED="1586541748595"/>
@@ -148,7 +146,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Volumen corriente o tidal" ID="ID_329111455" CREATED="1586542496544" MODIFIED="1586542506553">
 <node TEXT="El volumen corriente o tidal (VC) es el volumen de aire que circula entre una inspiraci&#xf3;n y espiraci&#xf3;n normal sin realizar un esfuerzo adicional. El valor normal es de aproximadamente 500 ml o 7 ml/kg de peso corporal" ID="ID_792069837" CREATED="1586542506553" MODIFIED="1586542509804"/>
@@ -162,7 +159,6 @@
     Vol&#250;menes y capacidades pulmonares VR: Volumen de reserva VRI: Volumen de reserva inspiratorio VRE: Volumen de reserva expiratorio CV: Capacidad vital CRF: Capacidad residual funcional CI: Capacidad inspirada CPT: Capacidad pulmonar total
   </body>
 </html>
-
 </richcontent>
 <node TEXT="png_927537813598462888.png" ID="ID_1851105017" CREATED="1586547620584" MODIFIED="1586547620584">
 <hook URI="Ventilador_files/png_927537813598462888.png" SIZE="0.8759124" NAME="ExternalObject"/>
@@ -186,7 +182,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="de 0 a 20cm H2O" ID="ID_918273450" CREATED="1586543969742" MODIFIED="1586548903746">
 <font BOLD="true"/>
@@ -283,7 +278,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="2 rotametros" ID="ID_1449219806" CREATED="1586547879172" MODIFIED="1586547886602">
 <node TEXT="1 para aire" ID="ID_310896557" CREATED="1586547886602" MODIFIED="1586547890443"/>
@@ -299,7 +293,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -319,7 +312,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="https://articulo.mercadolibre.com.mx/MLM-555393446-sensor-de-gas-o2-oxigeno-arduino-avr-pic-_JM#position=2&amp;type=item&amp;tracking_id=e786dc63-a0c0-4d05-8259-c85687f25fc8" ID="ID_395403551" CREATED="1586550643500" MODIFIED="1586550679972" LINK="https://articulo.mercadolibre.com.mx/MLM-555393446-sensor-de-gas-o2-oxigeno-arduino-avr-pic-_JM#position=2&amp;type=item&amp;tracking_id=e786dc63-a0c0-4d05-8259-c85687f25fc8"><richcontent TYPE="DETAILS">
 
@@ -333,7 +325,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -352,7 +343,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="https://articulo.mercadolibre.com.mx/MLM-754038137-sensor-de-presion-bme280-33v-temperatura-humedad-_JM?quantity=1#position=4&amp;type=item&amp;tracking_id=0b8a74b0-1727-44eb-8252-176c57a0121a" ID="ID_1453207399" CREATED="1586551086408" MODIFIED="1586551143261" LINK="https://articulo.mercadolibre.com.mx/MLM-754038137-sensor-de-presion-bme280-33v-temperatura-humedad-_JM?quantity=1#position=4&amp;type=item&amp;tracking_id=0b8a74b0-1727-44eb-8252-176c57a0121a"><richcontent TYPE="DETAILS">
@@ -367,7 +357,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="https://articulo.mercadolibre.com.mx/MLM-562887517-bmp180-sensor-de-presion-arduino-_JM?quantity=1#position=12&amp;type=item&amp;tracking_id=0b8a74b0-1727-44eb-8252-176c57a0121a" ID="ID_1303375671" CREATED="1586551103989" MODIFIED="1586551137241" LINK="https://articulo.mercadolibre.com.mx/MLM-562887517-bmp180-sensor-de-presion-arduino-_JM?quantity=1#position=12&amp;type=item&amp;tracking_id=0b8a74b0-1727-44eb-8252-176c57a0121a"><richcontent TYPE="DETAILS">
@@ -382,7 +371,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -401,7 +389,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -420,7 +407,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -452,13 +438,156 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
-<node TEXT="Reguladora de presion" ID="ID_1852212843" CREATED="1586553533538" MODIFIED="1586553538980">
+<node TEXT="Reguladora de presion" FOLDED="true" ID="ID_1852212843" CREATED="1586553533538" MODIFIED="1586553538980">
 <node TEXT="https://articulo.mercadolibre.com.mx/MLM-608696538-regulador-de-presion-con-filtro-de-aire-_JM?quantity=1#position=29&amp;type=item&amp;tracking_id=af24baaf-992a-4ed6-ac24-e0fdc74dec19" ID="ID_1521696105" CREATED="1586553544299" MODIFIED="1586553544299" LINK="https://articulo.mercadolibre.com.mx/MLM-608696538-regulador-de-presion-con-filtro-de-aire-_JM?quantity=1#position=29&amp;type=item&amp;tracking_id=af24baaf-992a-4ed6-ac24-e0fdc74dec19"/>
 <node TEXT="https://articulo.mercadolibre.com.mx/MLM-713537547-regulador-de-presion-con-filtro-smc-_JM#position=10&amp;type=item&amp;tracking_id=af24baaf-992a-4ed6-ac24-e0fdc74dec19" ID="ID_317463311" CREATED="1586553564331" MODIFIED="1586553564331" LINK="https://articulo.mercadolibre.com.mx/MLM-713537547-regulador-de-presion-con-filtro-smc-_JM#position=10&amp;type=item&amp;tracking_id=af24baaf-992a-4ed6-ac24-e0fdc74dec19"/>
+</node>
+<node TEXT="Motor a pasos" ID="ID_661388693" CREATED="1586837321947" MODIFIED="1586838155735"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $298
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-608071576-motores-a-pasos-nema-23-bipolares-minebea-japoneses-cnc-_JM?quantity=1#reco_item_pos=1&amp;reco_backend=machinalis-homes-pdp&amp;reco_backend_type=function&amp;reco_client=home_navigation-trend-recommendations&amp;reco_id=7ea52a36-fa38-4786-9ded-fddd208dbbca&amp;c_id=/home/navigation-trends-recommendations/element&amp;c_element_order=2&amp;c_uid=c158c589-8ada-460e-ad86-c4a5d6bd83ad" ID="ID_1034796975" CREATED="1586837335977" MODIFIED="1586837335977" LINK="https://articulo.mercadolibre.com.mx/MLM-608071576-motores-a-pasos-nema-23-bipolares-minebea-japoneses-cnc-_JM?quantity=1#reco_item_pos=1&amp;reco_backend=machinalis-homes-pdp&amp;reco_backend_type=function&amp;reco_client=home_navigation-trend-recommendations&amp;reco_id=7ea52a36-fa38-4786-9ded-fddd208dbbca&amp;c_id=/home/navigation-trends-recommendations/element&amp;c_element_order=2&amp;c_uid=c158c589-8ada-460e-ad86-c4a5d6bd83ad"/>
+</node>
+<node TEXT="Driver para motor a pasos" ID="ID_249307102" CREATED="1586837342997" MODIFIED="1586838120993"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $285
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-637274652-driver-para-motor-a-pasos-nema-controlador-de-motores-tb6600-5a-42v-_JM?quantity=1#reco_item_pos=0&amp;reco_backend=machinalis-homes-pdp&amp;reco_backend_type=function&amp;reco_client=home_navigation-trend-recommendations&amp;reco_id=7ea52a36-fa38-4786-9ded-fddd208dbbca&amp;c_id=/home/navigation-trends-recommendations/element&amp;c_element_order=1&amp;c_uid=a85ab1cd-3906-44cd-8ad3-8fc627d6aa59" ID="ID_1032870319" CREATED="1586837351348" MODIFIED="1586837351348" LINK="https://articulo.mercadolibre.com.mx/MLM-637274652-driver-para-motor-a-pasos-nema-controlador-de-motores-tb6600-5a-42v-_JM?quantity=1#reco_item_pos=0&amp;reco_backend=machinalis-homes-pdp&amp;reco_backend_type=function&amp;reco_client=home_navigation-trend-recommendations&amp;reco_id=7ea52a36-fa38-4786-9ded-fddd208dbbca&amp;c_id=/home/navigation-trends-recommendations/element&amp;c_element_order=1&amp;c_uid=a85ab1cd-3906-44cd-8ad3-8fc627d6aa59"/>
+</node>
+<node TEXT="Cople flexible 8mm" ID="ID_393750266" CREATED="1586837977155" MODIFIED="1586838005277"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $68
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-736888280-coples-flexibles-de-aluminio-8x8mm-para-cnc-arduino-pololu-_JM?quantity=1#position=31&amp;type=item&amp;tracking_id=456acf02-6521-42c2-a0af-6fb0b426588f" ID="ID_1599663549" CREATED="1586837985776" MODIFIED="1586837985776" LINK="https://articulo.mercadolibre.com.mx/MLM-736888280-coples-flexibles-de-aluminio-8x8mm-para-cnc-arduino-pololu-_JM?quantity=1#position=31&amp;type=item&amp;tracking_id=456acf02-6521-42c2-a0af-6fb0b426588f"/>
+</node>
+<node TEXT="rodamiento lineal 8mm" ID="ID_791841388" CREATED="1586838228298" MODIFIED="1586838253100"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $95
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-577915766-balero-sc8uu-rodamiento-lineal-chumacera-impresora-3d-8mm-_JM?quantity=1#reco_item_pos=3&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=1a2fb697-d693-470d-bc15-7afb7fbd9139" ID="ID_1979708478" CREATED="1586838254380" MODIFIED="1586838254380" LINK="https://articulo.mercadolibre.com.mx/MLM-577915766-balero-sc8uu-rodamiento-lineal-chumacera-impresora-3d-8mm-_JM?quantity=1#reco_item_pos=3&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=1a2fb697-d693-470d-bc15-7afb7fbd9139"/>
+</node>
+<node TEXT="Soporte para varilla lisa de 8mm" ID="ID_330209983" CREATED="1586838269526" MODIFIED="1586838289102"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $48
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-634688639-soporte-sk8-para-varilla-lisa-8mm-3d-cnc-chumacera-piso-_JM?quantity=1#reco_item_pos=2&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=52255b9f-43b3-4a11-a488-b2b5217f89a2" ID="ID_605691399" CREATED="1586838290442" MODIFIED="1586838290442" LINK="https://articulo.mercadolibre.com.mx/MLM-634688639-soporte-sk8-para-varilla-lisa-8mm-3d-cnc-chumacera-piso-_JM?quantity=1#reco_item_pos=2&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=52255b9f-43b3-4a11-a488-b2b5217f89a2"/>
+</node>
+<node TEXT="Camisa para tuerca acme 8mm" ID="ID_677769311" CREATED="1586838300413" MODIFIED="1586838319924"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $40
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-624620414-camisa-para-tuerca-acme-8mm-chumacera-abs-husillo-cnc-_JM?quantity=1#reco_item_pos=2&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=1a2fb697-d693-470d-bc15-7afb7fbd9139" ID="ID_280733719" CREATED="1586838311803" MODIFIED="1586838311803" LINK="https://articulo.mercadolibre.com.mx/MLM-624620414-camisa-para-tuerca-acme-8mm-chumacera-abs-husillo-cnc-_JM?quantity=1#reco_item_pos=2&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=1a2fb697-d693-470d-bc15-7afb7fbd9139"/>
+</node>
+<node TEXT="Varilla roscada Acme 8mm paso 8mm , 30cm" ID="ID_759102297" CREATED="1586838360075" MODIFIED="1586838385037"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $180
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-595589084-varilla-roscada-acme-8mm-husillo-30cm-largo-impresora-3d-_JM?quantity=1#position=10&amp;type=item&amp;tracking_id=53a05ac8-56c4-49c4-a455-085cd393298d" ID="ID_326261268" CREATED="1586838386287" MODIFIED="1586838386287" LINK="https://articulo.mercadolibre.com.mx/MLM-595589084-varilla-roscada-acme-8mm-husillo-30cm-largo-impresora-3d-_JM?quantity=1#position=10&amp;type=item&amp;tracking_id=53a05ac8-56c4-49c4-a455-085cd393298d"/>
+</node>
+<node TEXT="Tuerca Acme trapezoidal para husillo 8mm" ID="ID_1039656381" CREATED="1586838416803" MODIFIED="1586838433849"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $50
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-621197285-tuerca-acme-trapezoidal-para-husillo-8mm-cnc-bronce-_JM?quantity=1#position=1&amp;type=item&amp;tracking_id=53a05ac8-56c4-49c4-a455-085cd393298d" ID="ID_1672595513" CREATED="1586838435119" MODIFIED="1586838435119" LINK="https://articulo.mercadolibre.com.mx/MLM-621197285-tuerca-acme-trapezoidal-para-husillo-8mm-cnc-bronce-_JM?quantity=1#position=1&amp;type=item&amp;tracking_id=53a05ac8-56c4-49c4-a455-085cd393298d"/>
+</node>
+<node TEXT="Chumacera con rodamiento 8mm" ID="ID_1225227040" CREATED="1586838517104" MODIFIED="1586838532425"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $75
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-621197285-tuerca-acme-trapezoidal-para-husillo-8mm-cnc-bronce-_JM?quantity=1#position=1&amp;type=item&amp;tracking_id=53a05ac8-56c4-49c4-a455-085cd393298d" ID="ID_838567104" CREATED="1586838533385" MODIFIED="1586838533385" LINK="https://articulo.mercadolibre.com.mx/MLM-621197285-tuerca-acme-trapezoidal-para-husillo-8mm-cnc-bronce-_JM?quantity=1#position=1&amp;type=item&amp;tracking_id=53a05ac8-56c4-49c4-a455-085cd393298d"/>
 </node>
 </node>
 </node>
