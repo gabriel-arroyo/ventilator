@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Ventilador" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1211756865" CREATED="1586541323287" MODIFIED="1586541606777"><hook NAME="MapStyle" zoom="0.684">
+<node TEXT="Ventilador" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1211756865" CREATED="1586541323287" MODIFIED="1586541606777"><hook NAME="MapStyle" zoom="1.003">
     <properties fit_to_viewport="false" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
@@ -49,31 +49,31 @@
 <stylenode LOCALIZED_TEXT="AutomaticLayout.level,2" COLOR="#0066ff">
 <font NAME="Consolas" SIZE="14"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="AutomaticLayout.level,3" COLOR="#666666">
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,3" COLOR="#666666" MAX_WIDTH="10.0 cm">
 <font NAME="Consolas" SIZE="12"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="AutomaticLayout.level,4" COLOR="#111111">
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,4" COLOR="#111111" MAX_WIDTH="10.0 cm">
 <font NAME="Consolas" SIZE="10"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="AutomaticLayout.level,5">
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,5" MAX_WIDTH="10.0 cm">
 <font NAME="Consolas"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="AutomaticLayout.level,6">
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,6" MAX_WIDTH="10.0 cm">
 <font NAME="Consolas"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="AutomaticLayout.level,7">
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,7" MAX_WIDTH="10.0 cm">
 <font NAME="Consolas"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="AutomaticLayout.level,8">
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,8" MAX_WIDTH="10.0 cm">
 <font NAME="Consolas"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="AutomaticLayout.level,9">
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,9" MAX_WIDTH="10.0 cm">
 <font NAME="Consolas"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="AutomaticLayout.level,10">
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,10" MAX_WIDTH="10.0 cm">
 <font NAME="Consolas"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="AutomaticLayout.level,11">
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,11" MAX_WIDTH="10.0 cm">
 <font NAME="Consolas"/>
 </stylenode>
 </stylenode>
@@ -457,7 +457,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="https://articulo.mercadolibre.com.mx/MLM-608071576-motores-a-pasos-nema-23-bipolares-minebea-japoneses-cnc-_JM?quantity=1#reco_item_pos=1&amp;reco_backend=machinalis-homes-pdp&amp;reco_backend_type=function&amp;reco_client=home_navigation-trend-recommendations&amp;reco_id=7ea52a36-fa38-4786-9ded-fddd208dbbca&amp;c_id=/home/navigation-trends-recommendations/element&amp;c_element_order=2&amp;c_uid=c158c589-8ada-460e-ad86-c4a5d6bd83ad" ID="ID_1034796975" CREATED="1586837335977" MODIFIED="1586837335977" LINK="https://articulo.mercadolibre.com.mx/MLM-608071576-motores-a-pasos-nema-23-bipolares-minebea-japoneses-cnc-_JM?quantity=1#reco_item_pos=1&amp;reco_backend=machinalis-homes-pdp&amp;reco_backend_type=function&amp;reco_client=home_navigation-trend-recommendations&amp;reco_id=7ea52a36-fa38-4786-9ded-fddd208dbbca&amp;c_id=/home/navigation-trends-recommendations/element&amp;c_element_order=2&amp;c_uid=c158c589-8ada-460e-ad86-c4a5d6bd83ad"/>
 </node>
@@ -473,7 +472,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="https://articulo.mercadolibre.com.mx/MLM-637274652-driver-para-motor-a-pasos-nema-controlador-de-motores-tb6600-5a-42v-_JM?quantity=1#reco_item_pos=0&amp;reco_backend=machinalis-homes-pdp&amp;reco_backend_type=function&amp;reco_client=home_navigation-trend-recommendations&amp;reco_id=7ea52a36-fa38-4786-9ded-fddd208dbbca&amp;c_id=/home/navigation-trends-recommendations/element&amp;c_element_order=1&amp;c_uid=a85ab1cd-3906-44cd-8ad3-8fc627d6aa59" ID="ID_1032870319" CREATED="1586837351348" MODIFIED="1586837351348" LINK="https://articulo.mercadolibre.com.mx/MLM-637274652-driver-para-motor-a-pasos-nema-controlador-de-motores-tb6600-5a-42v-_JM?quantity=1#reco_item_pos=0&amp;reco_backend=machinalis-homes-pdp&amp;reco_backend_type=function&amp;reco_client=home_navigation-trend-recommendations&amp;reco_id=7ea52a36-fa38-4786-9ded-fddd208dbbca&amp;c_id=/home/navigation-trends-recommendations/element&amp;c_element_order=1&amp;c_uid=a85ab1cd-3906-44cd-8ad3-8fc627d6aa59"/>
 </node>
@@ -489,7 +487,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="https://articulo.mercadolibre.com.mx/MLM-736888280-coples-flexibles-de-aluminio-8x8mm-para-cnc-arduino-pololu-_JM?quantity=1#position=31&amp;type=item&amp;tracking_id=456acf02-6521-42c2-a0af-6fb0b426588f" ID="ID_1599663549" CREATED="1586837985776" MODIFIED="1586837985776" LINK="https://articulo.mercadolibre.com.mx/MLM-736888280-coples-flexibles-de-aluminio-8x8mm-para-cnc-arduino-pololu-_JM?quantity=1#position=31&amp;type=item&amp;tracking_id=456acf02-6521-42c2-a0af-6fb0b426588f"/>
 </node>
@@ -505,9 +502,15 @@
     </p>
   </body>
 </html>
-
 </richcontent>
-<node TEXT="https://articulo.mercadolibre.com.mx/MLM-577915766-balero-sc8uu-rodamiento-lineal-chumacera-impresora-3d-8mm-_JM?quantity=1#reco_item_pos=3&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=1a2fb697-d693-470d-bc15-7afb7fbd9139" ID="ID_1979708478" CREATED="1586838254380" MODIFIED="1586838254380" LINK="https://articulo.mercadolibre.com.mx/MLM-577915766-balero-sc8uu-rodamiento-lineal-chumacera-impresora-3d-8mm-_JM?quantity=1#reco_item_pos=3&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=1a2fb697-d693-470d-bc15-7afb7fbd9139"/>
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-577915766-balero-sc8uu-rodamiento-lineal-chumacera-impresora-3d-8mm-_JM?quantity=1#reco_item_pos=3&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=1a2fb697-d693-470d-bc15-7afb7fbd9139" ID="ID_1979708478" CREATED="1586838254380" MODIFIED="1586838254380" LINK="https://articulo.mercadolibre.com.mx/MLM-577915766-balero-sc8uu-rodamiento-lineal-chumacera-impresora-3d-8mm-_JM?quantity=1#reco_item_pos=3&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=1a2fb697-d693-470d-bc15-7afb7fbd9139">
+<node TEXT="png_2650384938332755366.png" ID="ID_1172300495" CREATED="1586885048677" MODIFIED="1586885048677">
+<hook URI="Ventilador_files/png_2650384938332755366.png" SIZE="0.93457943" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="Rodamiento lineal con brida cuadrada" FOLDED="true" ID="ID_1488992456" CREATED="1586881027926" MODIFIED="1586881035762">
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-595684914-balero-con-brida-cuadrada-lmk8uu-8mm-impresoras-3d-cnc-_JM?quantity=1&amp;variation=17544110263&amp;onAttributesExp=true#reco_item_pos=5&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=a72f7d46-3b19-47b9-afd7-35374c5f5ccf" ID="ID_419909328" CREATED="1586881036441" MODIFIED="1586881036441" LINK="https://articulo.mercadolibre.com.mx/MLM-595684914-balero-con-brida-cuadrada-lmk8uu-8mm-impresoras-3d-cnc-_JM?quantity=1&amp;variation=17544110263&amp;onAttributesExp=true#reco_item_pos=5&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=a72f7d46-3b19-47b9-afd7-35374c5f5ccf"/>
+</node>
 </node>
 <node TEXT="Soporte para varilla lisa de 8mm" ID="ID_330209983" CREATED="1586838269526" MODIFIED="1586838289102"><richcontent TYPE="DETAILS">
 
@@ -521,7 +524,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="https://articulo.mercadolibre.com.mx/MLM-634688639-soporte-sk8-para-varilla-lisa-8mm-3d-cnc-chumacera-piso-_JM?quantity=1#reco_item_pos=2&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=52255b9f-43b3-4a11-a488-b2b5217f89a2" ID="ID_605691399" CREATED="1586838290442" MODIFIED="1586838290442" LINK="https://articulo.mercadolibre.com.mx/MLM-634688639-soporte-sk8-para-varilla-lisa-8mm-3d-cnc-chumacera-piso-_JM?quantity=1#reco_item_pos=2&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=52255b9f-43b3-4a11-a488-b2b5217f89a2"/>
 </node>
@@ -537,7 +539,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="https://articulo.mercadolibre.com.mx/MLM-624620414-camisa-para-tuerca-acme-8mm-chumacera-abs-husillo-cnc-_JM?quantity=1#reco_item_pos=2&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=1a2fb697-d693-470d-bc15-7afb7fbd9139" ID="ID_280733719" CREATED="1586838311803" MODIFIED="1586838311803" LINK="https://articulo.mercadolibre.com.mx/MLM-624620414-camisa-para-tuerca-acme-8mm-chumacera-abs-husillo-cnc-_JM?quantity=1#reco_item_pos=2&amp;reco_backend=machinalis-seller-items-pdp&amp;reco_backend_type=low_level&amp;reco_client=vip-seller_items-above&amp;reco_id=1a2fb697-d693-470d-bc15-7afb7fbd9139"/>
 </node>
@@ -553,7 +554,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="https://articulo.mercadolibre.com.mx/MLM-595589084-varilla-roscada-acme-8mm-husillo-30cm-largo-impresora-3d-_JM?quantity=1#position=10&amp;type=item&amp;tracking_id=53a05ac8-56c4-49c4-a455-085cd393298d" ID="ID_326261268" CREATED="1586838386287" MODIFIED="1586838386287" LINK="https://articulo.mercadolibre.com.mx/MLM-595589084-varilla-roscada-acme-8mm-husillo-30cm-largo-impresora-3d-_JM?quantity=1#position=10&amp;type=item&amp;tracking_id=53a05ac8-56c4-49c4-a455-085cd393298d"/>
 </node>
@@ -569,9 +569,11 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="https://articulo.mercadolibre.com.mx/MLM-621197285-tuerca-acme-trapezoidal-para-husillo-8mm-cnc-bronce-_JM?quantity=1#position=1&amp;type=item&amp;tracking_id=53a05ac8-56c4-49c4-a455-085cd393298d" ID="ID_1672595513" CREATED="1586838435119" MODIFIED="1586838435119" LINK="https://articulo.mercadolibre.com.mx/MLM-621197285-tuerca-acme-trapezoidal-para-husillo-8mm-cnc-bronce-_JM?quantity=1#position=1&amp;type=item&amp;tracking_id=53a05ac8-56c4-49c4-a455-085cd393298d"/>
+<node TEXT="png_1736118003125858847.png" ID="ID_1143466489" CREATED="1586880762846" MODIFIED="1586880762846">
+<hook URI="Ventilador_files/png_1736118003125858847.png" SIZE="0.990099" NAME="ExternalObject"/>
+</node>
 </node>
 <node TEXT="Chumacera con rodamiento 8mm" ID="ID_1225227040" CREATED="1586838517104" MODIFIED="1586838532425"><richcontent TYPE="DETAILS">
 
@@ -585,9 +587,34 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="https://articulo.mercadolibre.com.mx/MLM-621197285-tuerca-acme-trapezoidal-para-husillo-8mm-cnc-bronce-_JM?quantity=1#position=1&amp;type=item&amp;tracking_id=53a05ac8-56c4-49c4-a455-085cd393298d" ID="ID_838567104" CREATED="1586838533385" MODIFIED="1586838533385" LINK="https://articulo.mercadolibre.com.mx/MLM-621197285-tuerca-acme-trapezoidal-para-husillo-8mm-cnc-bronce-_JM?quantity=1#position=1&amp;type=item&amp;tracking_id=53a05ac8-56c4-49c4-a455-085cd393298d"/>
+<node TEXT="png_6387827713140558407.png" ID="ID_1208373610" CREATED="1586880788088" MODIFIED="1586880788088">
+<hook URI="Ventilador_files/png_6387827713140558407.png" SIZE="0.82191783" NAME="ExternalObject"/>
+</node>
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-595675555-soporte-o-chumacera-para-eje-lineal-8mm-impresoras-3d-cnc-_JM?quantity=1&amp;variation=17541540986&amp;onAttributesExp=true#reco_item_pos=9&amp;reco_backend=machinalis-domain-pads&amp;reco_backend_type=low_level&amp;reco_client=vip-pads&amp;reco_id=3ec5fdda-0b4f-4e1b-9fd1-d6ebf4bd527a&amp;is_advertising=true&amp;ad_domain=VIPCORE_RECOMMENDED&amp;ad_position=10&amp;ad_click_id=NTg5ZWE1YzItZDZiZS00Y2ExLWEwMjItZWU5NmE3YjUwZWI2" ID="ID_1145276674" CREATED="1586880901954" MODIFIED="1586880901954" LINK="https://articulo.mercadolibre.com.mx/MLM-595675555-soporte-o-chumacera-para-eje-lineal-8mm-impresoras-3d-cnc-_JM?quantity=1&amp;variation=17541540986&amp;onAttributesExp=true#reco_item_pos=9&amp;reco_backend=machinalis-domain-pads&amp;reco_backend_type=low_level&amp;reco_client=vip-pads&amp;reco_id=3ec5fdda-0b4f-4e1b-9fd1-d6ebf4bd527a&amp;is_advertising=true&amp;ad_domain=VIPCORE_RECOMMENDED&amp;ad_position=10&amp;ad_click_id=NTg5ZWE1YzItZDZiZS00Y2ExLWEwMjItZWU5NmE3YjUwZWI2"/>
+<node TEXT="png_6266620896093686918.png" ID="ID_204921615" CREATED="1586880935806" MODIFIED="1586880935806">
+<hook URI="Ventilador_files/png_6266620896093686918.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="PErfil para esquina" ID="ID_1597023935" CREATED="1586881243262" MODIFIED="1586881259904"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $19
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="https://articulo.mercadolibre.com.mx/MLM-660854516-esquina-perfil-l-para-perfil-2020-_JM?quantity=1#reco_item_pos=0&amp;reco_backend=machinalis-v2p-pdp-v2&amp;reco_backend_type=low_level&amp;reco_client=vip-v2p&amp;reco_id=97f8a758-495f-498c-a613-2c07ddddd4e2" ID="ID_219562081" CREATED="1586881251373" MODIFIED="1586881251373" LINK="https://articulo.mercadolibre.com.mx/MLM-660854516-esquina-perfil-l-para-perfil-2020-_JM?quantity=1#reco_item_pos=0&amp;reco_backend=machinalis-v2p-pdp-v2&amp;reco_backend_type=low_level&amp;reco_client=vip-v2p&amp;reco_id=97f8a758-495f-498c-a613-2c07ddddd4e2"/>
+<node TEXT="png_2679483374150491139.png" ID="ID_451179050" CREATED="1586881359558" MODIFIED="1586881359558">
+<hook URI="Ventilador_files/png_2679483374150491139.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
 </node>
 </node>
 </node>
