@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Ventilador" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1211756865" CREATED="1586541323287" MODIFIED="1586541606777"><hook NAME="MapStyle" zoom="1.334">
-    <properties fit_to_viewport="false" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_note_icons="true"/>
+<node TEXT="Ventilador" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1211756865" CREATED="1586541323287" MODIFIED="1586541606777"><hook NAME="MapStyle" zoom="0.515">
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -609,7 +609,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="https://articulo.mercadolibre.com.mx/MLM-660854516-esquina-perfil-l-para-perfil-2020-_JM?quantity=1#reco_item_pos=0&amp;reco_backend=machinalis-v2p-pdp-v2&amp;reco_backend_type=low_level&amp;reco_client=vip-v2p&amp;reco_id=97f8a758-495f-498c-a613-2c07ddddd4e2" ID="ID_219562081" CREATED="1586881251373" MODIFIED="1586881251373" LINK="https://articulo.mercadolibre.com.mx/MLM-660854516-esquina-perfil-l-para-perfil-2020-_JM?quantity=1#reco_item_pos=0&amp;reco_backend=machinalis-v2p-pdp-v2&amp;reco_backend_type=low_level&amp;reco_client=vip-v2p&amp;reco_id=97f8a758-495f-498c-a613-2c07ddddd4e2"/>
 <node TEXT="png_2679483374150491139.png" ID="ID_451179050" CREATED="1586881359558" MODIFIED="1586881359558">
@@ -630,7 +629,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
